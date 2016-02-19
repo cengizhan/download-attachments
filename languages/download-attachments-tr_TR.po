@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Download Attachments\n"
+"POT-Creation-Date: 2014-12-19 11:02+0100\n"
+"PO-Revision-Date: 2014-12-19 11:02+0100\n"
+"Last-Translator: Bartosz Arendt <info@dfactory.eu>\n"
+"Language-Team: dFactory <info@dfactory.pl>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;"
+"_n:1,2;_x:1,2c;_nx_noop:4c,1,2;_nx:4c,1,2;_ex:1,2c;_c,_nc:4c,1,2;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../download-attachments.php:256
+msgid "Index"
+msgstr "Index"
+
+#: ../download-attachments.php:257
+msgid "ID"
+msgstr "No"
+
+#: ../download-attachments.php:258
+msgid "Exclude"
+msgstr "Hariç Tut"
+
+#: ../download-attachments.php:259 ../includes/functions.php:276
+#: ../includes/functions.php:354
+msgid "Added by"
+msgstr "Ekleyen"
+
+#: ../download-attachments.php:260
+msgid "Title"
+msgstr "Başlık"
+
+#: ../download-attachments.php:261
+msgid "File type"
+msgstr "Dosya Türü"
+
+#: ../download-attachments.php:262
+msgid "Icon"
+msgstr "Simge"
+
+#: ../download-attachments.php:263
+msgid "Size"
+msgstr "Boyut"
+
+#: ../download-attachments.php:264 ../includes/functions.php:273
+#: ../includes/functions.php:350
+msgid "Date added"
+msgstr "Eklenme Tarihi"
+
+#: ../download-attachments.php:265 ../includes/functions.php:282
+#: ../includes/functions.php:362 ../includes/media.php:55
+msgid "Downloads"
+msgstr "İndirmeler"
+
+#: ../download-attachments.php:353
+msgid "Are you sure you want to reset these settings to defaults?"
+msgstr "Bu ayarları varsayalıan değerlerine getirmek istediğinize emin misiniz?"
+
+#: ../download-attachments.php:354
+msgid "Are you sure you want to reset number of downloads of all attachments?"
+msgstr "İndirme sayısını sıfırlamak istediğinize emin misiniz?"
+
+#: ../download-attachments.php:390
+msgid "Select Attachments"
+msgstr "Ekleri Seç"
+
+#: ../download-attachments.php:391
+msgid "Edit attachment"
+msgstr "Eki düzenle"
+
+#: ../download-attachments.php:392
+msgid "Add selected attachments"
+msgstr "Seçili ekleri ekle"
+
+#: ../download-attachments.php:393
+msgid "Save attachment"
+msgstr "Eki kaydet"
+
+#: ../download-attachments.php:394 ../includes/metabox.php:342
+msgid "No attachments added yet."
+msgstr "Henüz bir ek eklenmemiş."
+
+#: ../download-attachments.php:395
+msgid "Do you want to remove this attachment?"
+msgstr "Bu eki kaldırmak istediğinize emin misiniz?"
+
+#: ../download-attachments.php:396
+msgid "Remove"
+msgstr "Kaldır"
+
+#: ../download-attachments.php:397 ../includes/metabox.php:500
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../download-attachments.php:399 ../includes/metabox.php:174
+#: ../includes/metabox.php:214
+msgid "Unexpected error occured. Please refresh the page and try again."
+msgstr "Beklenemyen bir hata oluştu. Lütfen sayfasyı yeniden yükleyip tekrar deneyin."
+
+#: ../download-attachments.php:446
+msgid "Support"
+msgstr "Destek"
+
+#: ../download-attachments.php:468
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../includes/functions.php:187 ../includes/shortcodes.php:58
+msgid "No attachments to download"
+msgstr "İndirilecek bir ek yok"
+
+#: ../includes/functions.php:191 ../includes/metabox.php:248
+#: ../includes/settings.php:107 ../includes/settings.php:108
+#: ../includes/settings.php:123 ../includes/settings.php:127
+#: ../includes/shortcodes.php:62
+msgid "Download Attachments"
+msgstr "İndirilebilir Ekler"
+
+#: ../includes/functions.php:267
+msgid "File"
+msgstr "Dosya"
+
+#: ../includes/functions.php:270
+msgid "Description"
+msgstr "Açıklama"
+
+#: ../includes/functions.php:279 ../includes/functions.php:358
+msgid "File size"
+msgstr "Bosya boyutu"
+
+#: ../includes/metabox.php:270 ../includes/metabox.php:350
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../includes/metabox.php:273
+msgid "Add new attachment"
+msgstr "Yeni ekle ekle"
+
+#: ../includes/metabox.php:310
+msgid "Actions"
+msgstr "İşlemler"
+
+#: ../includes/settings.php:55
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: ../includes/settings.php:56
+msgid "Disable"
+msgstr "Pasifleştir"
+
+#: ../includes/settings.php:60
+msgid "All files"
+msgstr "Tüm dosyalar"
+
+#: ../includes/settings.php:61
+msgid "Attached to a post only"
+msgstr "Sadece bir yazıya ekli"
+
+#: ../includes/settings.php:65
+msgid "Manage download attachments"
+msgstr "İndirilebilir ekleri yönet"
+
+#: ../includes/settings.php:69 ../includes/settings.php:197
+msgid "Media Library"
+msgstr "Ortam Kütüphanesi"
+
+#: ../includes/settings.php:70
+msgid "Modal"
+msgstr "Üst Pencere"
+
+#: ../includes/settings.php:74
+msgid "before the content"
+msgstr "içerikten önce"
+
+#: ../includes/settings.php:75
+msgid "after the content"
+msgstr "içerikten sonra"
+
+#: ../includes/settings.php:76
+msgid "manually"
+msgstr "el ile"
+
+#: ../includes/settings.php:80
+msgid "List"
+msgstr "Liste"
+
+#: ../includes/settings.php:81
+msgid "Table"
+msgstr "Tablo"
+
+#: ../includes/settings.php:85
+msgid "caption"
+msgstr "başlık"
+
+#: ../includes/settings.php:86
+msgid "description"
+msgstr "açıklama"
+
+#: ../includes/settings.php:129
+msgid "Need support?"
+msgstr "Desteğe ihtiyaç mı var?"
+
+#: ../includes/settings.php:130
+msgid ""
+"If you are having problems with this plugin, please talk about them in the"
+msgstr ""
+
+#: ../includes/settings.php:130
+msgid "Support forum"
+msgstr "Destek forumu"
+
+#: ../includes/settings.php:132
+msgid "Do you like this plugin?"
+msgstr "Bu eklentiyi sevdiniz mi?"
+
+#: ../includes/settings.php:133
+msgid "Rate it 5"
+msgstr "5 Puan verin"
+
+#: ../includes/settings.php:133
+msgid "on WordPress.org"
+msgstr "Wordpress.org"
+
+#: ../includes/settings.php:134
+msgid "Blog about it & link to the"
+msgstr "Blog'unuzda paylaşıp şuraya bağlantı verin"
+
+#: ../includes/settings.php:134
+msgid "plugin page"
+msgstr "eklenti sayfası"
+
+#: ../includes/settings.php:135
+msgid "Check out our other"
+msgstr "Diğer "
+
+#: ../includes/settings.php:135
+msgid "WordPress plugins"
+msgstr "WordPress eklentilerimiz"
+
+#: ../includes/settings.php:144
+msgid "Created by"
+msgstr "Oluşturan"
+
+#: ../includes/settings.php:164
+msgid "Reset to defaults"
+msgstr "Varsayılan değerleri getir"
+
+#: ../includes/settings.php:168
+msgid "Reset downloads"
+msgstr "İndirmeleri sıfırla"
+
+#: ../includes/settings.php:186
+msgid "General settings"
+msgstr "Genel ayarlar"
+
+#: ../includes/settings.php:187
+msgid "Label"
+msgstr "Etiket"
+
+#: ../includes/settings.php:188
+msgid "Capabilities"
+msgstr "Kabiliyetler"
+
+#: ../includes/settings.php:189
+msgid "Supported Post Types"
+msgstr "Deteklenen Yazı Türleri"
+
+#: ../includes/settings.php:190
+msgid "Deactivation"
+msgstr "Pasifleştirme"
+
+#: ../includes/settings.php:193
+msgid "Admin settings"
+msgstr "Yönetici ayarları"
+
+#: ../includes/settings.php:194
+msgid "Backend Display"
+msgstr "Arkayüz Görünümü"
+
+#: ../includes/settings.php:195
+msgid "Backend Downloads Description"
+msgstr "Arkayüz İndirme Açıklamalası"
+
+#: ../includes/settings.php:196
+msgid "Edit attachment link"
+msgstr "Ek bağlantısını düzenle"
+
+#: ../includes/settings.php:198
+msgid "Downloads in Media Library"
+msgstr "Ortam Kütüphanesindeki Ekler"
+
+#: ../includes/settings.php:201
+msgid "Frontend settings"
+msgstr "Önüz ayarları"
+
+#: ../includes/settings.php:202
+msgid "Frontend Display"
+msgstr "Önyüz Görünümü"
+
+#: ../includes/settings.php:203
+msgid "Display Style"
+msgstr "Görünüm Şekli"
+
+#: ../includes/settings.php:204
+msgid "Frontend Downloads Description"
+msgstr "Önyüz İndirme Açıklaması"
+
+#: ../includes/settings.php:205
+msgid "Use CSS style"
+msgstr "CSS stili kullan"
+
+#: ../includes/settings.php:206
+msgid "Pretty URLs"
+msgstr "Güzel Bağlantılar"
+
+#: ../includes/settings.php:207
+msgid "Downloads List Display"
+msgstr "İndirmeler Liste Görünümü"
+
+#: ../includes/settings.php:221
+msgid "Enter download attachments list label."
+msgstr "İndirme ekleri liste etiketini giriniz"
+
+#: ../includes/settings.php:244
+msgid "Select which post types would you like to enable for your downloads."
+msgstr "İndirmeleri hangi yazı türleri için etkinleştireceğinizi seçiniz."
+
+#: ../includes/settings.php:268
+msgid ""
+"Select which columns would you like to enable on backend for your downloads."
+msgstr ""
+
+#: ../includes/settings.php:292
+msgid ""
+"Select which columns would you like to enable on frontend for your downloads."
+msgstr ""
+
+#: ../includes/settings.php:315
+msgid "Select if you'd like to use bultin CSS style."
+msgstr "Yerleşik CSS sitilini kullanmak istiyorsanız seçiniz."
+
+#: ../includes/settings.php:338
+msgid "Enable if you want to use pretty URLs."
+msgstr "Güzel bağlantıları kullanmak istiyorsanız seçiniz."
+
+#: ../includes/settings.php:340
+msgid "Slug"
+msgstr "Slug"
+
+#: ../includes/settings.php:344
+msgid "Download link slug."
+msgstr "Download link slug. "
+
+#: ../includes/settings.php:369
+msgid "Select where you would like your download attachments to be displayed."
+msgstr "İndirme eklerininin gösterileceği yeri seçiniz."
+
+#: ../includes/settings.php:392
+msgid "Select display style for file attachments."
+msgstr "Dosya eklerinin görünüm sitilini seçiniz."
+
+#: ../includes/settings.php:415
+msgid ""
+"Select what fields to use on backend for download attachments description."
+msgstr ""
+
+#: ../includes/settings.php:438
+msgid ""
+"Select what fields to use on frontend for download attachments description."
+msgstr ""
+
+#: ../includes/settings.php:461
+msgid "Select where you would like to edit download attachments."
+msgstr "İndirme eklerini nerede düzenlemek istediğinizi seçiniz"
+
+#: ../includes/settings.php:484
+msgid "Select which attachments should be visible in Media Library window."
+msgstr "Ortam Kütüphanesinde görünmesini istediğiniz indirme eklerini seçiniz."
+
+#: ../includes/settings.php:507
+msgid ""
+"Enable if you want to display downloads count in your Media Library columns."
+msgstr ""
+
+#: ../includes/settings.php:528
+msgid "Role"
+msgstr "Görev"
+
+#: ../includes/settings.php:533
+msgid "None"
+msgstr "Hiç"
+
+#: ../includes/settings.php:566
+msgid ""
+"Select user roles allowed to add, remove and manage Download Attachments."
+msgstr ""
+
+#: ../includes/settings.php:591
+msgid "Enable if you want all plugin data to be deleted on deactivation."
+msgstr "Pasifleştiriliğinde bu eklentinin tüm verilerinin silinmesini istiyorsanız seçiniz"
+
+#: ../includes/settings.php:746
+msgid "Settings restored to defaults."
+msgstr "Ayarlar varsayılan değerleri getirildi"
+
+#: ../includes/settings.php:764
+msgid "An error occurred while resetting the number of downloads."
+msgstr "İndirme ekleri sıfırlanırken hata oluştu"
+
+#: ../includes/settings.php:766
+msgid "Number of downloads of all attachments has been reset."
+msgstr "Tüm eklerin indirme sayısı sıfırlandı"
+
+msgstr "Bu eklenti ile ilgili bir sorun yaşıyorsanız lütfen şu yerlere bakınız"
+
+msgstr "İndirmeleri arkayüzde hangi sütunlar için etkinleştireceğinizi seçiniz."
+
+msgstr "İndirmeleri önyüzde hangi sütunlar için etkinleştireceğinizi seçiniz."
+
+msgstr "İndirme eklelerini yönetebilecek kullanıcı görevlerini seçiniz"
+
+msgstr "Ortam Kütüphanesi tablosunda indirme sayılarını görmek istiyorsanız seçiniz."
+
+msgstr "Önyüzde indirme ekleri açıklaması için hangi alanları kullanmak istediğinizi seçiniz."
+
+msgstr "Arkayüzde indirme ekleri açıklaması için hangi alanları kullanmak istediğinizi seçiniz."
