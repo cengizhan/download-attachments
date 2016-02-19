@@ -206,7 +206,7 @@ msgstr "açıklama"
 
 #: ../includes/settings.php:129
 msgid "Need support?"
-msgstr "Desteğe ihtiyaç mı var?"
+msgstr "Desteğe ihtiyacınız mı var?"
 
 #: ../includes/settings.php:130
 msgid ""
@@ -295,11 +295,11 @@ msgstr "Ek bağlantısını düzenle"
 
 #: ../includes/settings.php:198
 msgid "Downloads in Media Library"
-msgstr "Ortam Kütüphanesindeki Ekler"
+msgstr "Ortam Kütüphanesindeki İndirmeler"
 
 #: ../includes/settings.php:201
 msgid "Frontend settings"
-msgstr "Önüz ayarları"
+msgstr "Önyüz ayarları"
 
 #: ../includes/settings.php:202
 msgid "Frontend Display"
